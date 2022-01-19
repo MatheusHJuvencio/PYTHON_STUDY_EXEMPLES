@@ -24,7 +24,7 @@
 
 ## Atividades paralela:
 
-#### Fotografo e Videomaker
+#### Fotógrafo e Videomaker
 #### Redator colaborador em: [Site RND](https://portalrnd.com.br/author/matheus-henrique/)
 #### Imagem de container criada em: [DockerHub](https://hub.docker.com/repository/docker/matheusjuvencio/matheusjuvencio)
 
