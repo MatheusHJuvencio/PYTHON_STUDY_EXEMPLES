@@ -1,3 +1,9 @@
+# Estudos com Python
+
+### Sobre o diretório:
+##### O presente diretório consiste em algumas atividades complementares desenvolvida em Python durante o processo de Residência em Intengência Artificial
+
+
 # **Matheus Henrique Juvencio**
 *** 
 #### Email: mthsjuvencio@gmail.com
@@ -21,9 +27,4 @@
 ##### 2022
 
 ***
-
-## Sobre o diretório:
-
-#### O presente diretório consiste em algumas atividades complementares desenvolvida em Python durante o processo de Residência em Intengência Artificial
-
 ***
